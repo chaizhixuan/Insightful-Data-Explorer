@@ -4,7 +4,7 @@ def about_info():
     st.title("About This App")
 
     st.markdown("""
-    **Insightful Data Explorer aims to simplify the data analysis and machine learning process by providing a 
+    **InsightfulGov aims to simplify the data analysis and machine learning process by providing a 
     user-friendly interface with various features**
 
     ### Key Features:
@@ -25,11 +25,11 @@ def about_info():
     
     
     ### Created By:
-    ##### **Archana**: [LinkedIn Profile](https://www.linkedin.com/in/archanags001)
+    ##### **Chai Zhixuan**
 
 
     ### Contact:
-    For inquiries or feedback, please contact **archanags203@gmail.com**
+    For inquiries or feedback, please contact **chai_zhixuan@mof.gov.sg**
 
     
     ### Disclaimer:

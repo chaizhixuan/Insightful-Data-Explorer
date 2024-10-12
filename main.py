@@ -12,7 +12,7 @@ from contact_form import contact
 
  # Page setup
 st.set_page_config(
-    page_title="Insightful Data Explorer",
+    page_title="InsightfulGov",
     page_icon="📊",
     layout="wide",
 )
